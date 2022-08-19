@@ -1,0 +1,78 @@
+C:\Users\ADMIN\Desktop\Projects\menudriven\obj\Debug\net6.0\menudriven.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Projects\menudriven\obj\Debug\net6.0\menudriven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Projects\menudriven\obj\Debug\net6.0\menudriven.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Projects\menudriven\obj\Debug\net6.0\menudriven.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Projects\menudriven\obj\Debug\net6.0\menudriven.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\menudriven.exe
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\menudriven.deps.json
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\menudriven.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\menudriven.dll
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\menudriven.pdb
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\Bankingproject.dll
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\Bankingproject.pdb
+C:\Users\ADMIN\Desktop\Projects\menudriven\obj\Debug\net6.0\menudriven.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Projects\menudriven\obj\Debug\net6.0\menudriven.dll
+C:\Users\ADMIN\Desktop\Projects\menudriven\obj\Debug\net6.0\refint\menudriven.dll
+C:\Users\ADMIN\Desktop\Projects\menudriven\obj\Debug\net6.0\menudriven.pdb
+C:\Users\ADMIN\Desktop\Projects\menudriven\obj\Debug\net6.0\menudriven.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Projects\menudriven\obj\Debug\net6.0\ref\menudriven.dll
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\bankingdblib.dll
+C:\Users\ADMIN\Desktop\Projects\menudriven\bin\Debug\net6.0\bankingdblib.pdb
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\menudriven.exe
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\menudriven.deps.json
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\menudriven.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\menudriven.dll
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\menudriven.pdb
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\bankingdblib.dll
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\Bankingproject.dll
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\bankingdblib.pdb
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\bin\Debug\net6.0\Bankingproject.pdb
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\obj\Debug\net6.0\menudriven.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\obj\Debug\net6.0\menudriven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\obj\Debug\net6.0\menudriven.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\obj\Debug\net6.0\menudriven.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\obj\Debug\net6.0\menudriven.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\obj\Debug\net6.0\menudriven.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\obj\Debug\net6.0\menudriven.dll
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\obj\Debug\net6.0\refint\menudriven.dll
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\obj\Debug\net6.0\menudriven.pdb
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\obj\Debug\net6.0\menudriven.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Bank Projects\menudriven\obj\Debug\net6.0\ref\menudriven.dll
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\menudriven.exe
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\menudriven.deps.json
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\menudriven.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\menudriven.dll
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\menudriven.pdb
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\bankingdblib.dll
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\Bankingproject.dll
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\bankingdblib.pdb
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\bin\Debug\net6.0\Bankingproject.pdb
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\obj\Debug\net6.0\menudriven.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\obj\Debug\net6.0\menudriven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\obj\Debug\net6.0\menudriven.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\obj\Debug\net6.0\menudriven.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\obj\Debug\net6.0\menudriven.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\obj\Debug\net6.0\menudriven.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\obj\Debug\net6.0\menudriven.dll
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\obj\Debug\net6.0\refint\menudriven.dll
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\obj\Debug\net6.0\menudriven.pdb
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\obj\Debug\net6.0\menudriven.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Bank Project\menudriven\obj\Debug\net6.0\ref\menudriven.dll

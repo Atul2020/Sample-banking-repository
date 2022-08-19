@@ -1,0 +1,45 @@
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\bin\Debug\net6.0\bankingdblib.dll
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\bin\Debug\net6.0\Bankingproject.dll
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\bin\Debug\net6.0\bankingdblib.pdb
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\bin\Debug\net6.0\Bankingproject.pdb
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.dll
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\obj\Debug\net6.0\refint\Bankingproject.dll
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.pdb
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\bin\Debug\net6.0\Bankingproject.deps.json
+C:\Users\ADMIN\Desktop\Projects\Bankingproject\obj\Debug\net6.0\ref\Bankingproject.dll
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.dll
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\obj\Debug\net6.0\refint\Bankingproject.dll
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.pdb
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\bin\Debug\net6.0\bankingdblib.dll
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\bin\Debug\net6.0\Bankingproject.dll
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\bin\Debug\net6.0\bankingdblib.pdb
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\bin\Debug\net6.0\Bankingproject.pdb
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\obj\Debug\net6.0\Bankingproject.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\bin\Debug\net6.0\Bankingproject.deps.json
+C:\Users\ADMIN\Desktop\Bank Projects\Bankingproject\obj\Debug\net6.0\ref\Bankingproject.dll
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\bin\Debug\net6.0\bankingdblib.dll
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\bin\Debug\net6.0\Bankingproject.dll
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\bin\Debug\net6.0\bankingdblib.pdb
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\bin\Debug\net6.0\Bankingproject.pdb
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\obj\Debug\net6.0\Bankingproject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\obj\Debug\net6.0\Bankingproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\obj\Debug\net6.0\Bankingproject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\obj\Debug\net6.0\Bankingproject.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\obj\Debug\net6.0\Bankingproject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\obj\Debug\net6.0\Bankingproject.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\obj\Debug\net6.0\Bankingproject.dll
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\obj\Debug\net6.0\refint\Bankingproject.dll
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\obj\Debug\net6.0\Bankingproject.pdb
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\bin\Debug\net6.0\Bankingproject.deps.json
+C:\Users\ADMIN\Desktop\Bank Project\Bankingproject\obj\Debug\net6.0\ref\Bankingproject.dll
